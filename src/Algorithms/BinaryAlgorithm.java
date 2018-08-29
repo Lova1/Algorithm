@@ -1,6 +1,8 @@
+package Algorithms;
+
 import java.util.Arrays;
 
-public class Algorithms {
+public class BinaryAlgorithm {
 
     public static class Binary_search {
 
